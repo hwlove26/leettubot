@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="discord" />
+          <option value="asyncio" />
+          <option value="random" />
+          <option value="youtube_dl" />
+          <option value="botremake.print" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
